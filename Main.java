@@ -1,16 +1,12 @@
 //******************************************************************************
-//CLASS: CSE205 (CSE205.java)
+//CLASS: MAIN (Main.java)
 //
 //DESCRIPTION
 //This program will read a list of integers from a text file and perform a
 //statistical runs up and runs down test. The program will output a text file
 //which includes the individual runs(k) as well as the runs(total)
 //
-//COURSE AND PROJECT INFO
-//CSE205 Object Oriented Programming and Data Structures, Fall 2010
-//Project Number: 01
-//
-//AUTHOR: Ian Skelskey, iskelske, ianskelskey@gmail.com
+//AUTHOR: Ian Skelskey, ianskelskey@gmail.com
 //******************************************************************************
 package p01;
 
